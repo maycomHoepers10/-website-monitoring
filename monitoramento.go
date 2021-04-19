@@ -1,4 +1,4 @@
-package main //Indica que é o pacote principal
+package main 
 import (
 	"bufio"
 	"fmt"
